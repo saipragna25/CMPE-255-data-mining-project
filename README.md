@@ -1,6 +1,6 @@
-# CMPE-255-data-mining-project
+ CMPE-255-data-mining-project
 
-        PRICE AND PRODUCT MONITORING TOOL:
+        # PRICE AND PRODUCT MONITORING TOOL:
             
           • E-commerce portals are expanding significantly as a result of the rise in popularity of shopping websites, allowing online shoppers to make any purchase with   a single click and have it delivered in under a week or, for an additional fee, in under a day.
           
